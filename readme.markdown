@@ -10,6 +10,8 @@ return the first argument that is `!== undefined`
 
 [![browserling http](http://browserling.com/images/logo.png)](http://browserling.com/images/logo.png)
 
+asasd
+
 Most of the time when I chain together `||`s, I actually just want the first
 item that is not `undefined`, not the first non-falsy item.
 
